@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/nathan7/node-fsobj.png?branch=master)](https://travis-ci.org/nathan7/node-fsobj)
+
 fsobj
 =====
 Have your filesystem hierarchy as an object hierarchy.
